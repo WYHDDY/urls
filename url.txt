@@ -71,4 +71,4 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/6V2ray
+https://github.com/ggborr/FREEE-VPN/raw/refs/heads/main/8V2
