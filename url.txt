@@ -70,3 +70,5 @@ https://github.com/Leon406/SubCrawler/raw/refs/heads/main/sub/share/hysteria2
 https://github.com/Leon406/SubCrawler/raw/refs/heads/main/sub/share/a11
 https://github.com/awesome-vpn/awesome-vpn/raw/refs/heads/master/all
 https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/8V2
+https://raw.githubusercontent.com/danmaifu/mianfeijiedian/main/feed/clash-{Ymd}.yaml
+https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml
