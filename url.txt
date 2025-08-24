@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.ym
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/mgit0001/test_clash/main/heima.txt
-https://raw.githubusercontent.com/mai19950/clashgithub_com/main/site
-https://raw.githubusercontent.com/mai19950/sites/main/sub/v2ray/base64
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/shahidbhutta/Clash/main/Router
@@ -58,10 +56,6 @@ https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
-https://raw.githubusercontent.com/darknessm427/IranConfigCollector/main/bulk/ss_iran.txt
-https://raw.githubusercontent.com/darknessm427/IranConfigCollector/main/bulk/trojan_iran.txt
-https://raw.githubusercontent.com/darknessm427/IranConfigCollector/main/bulk/vless_iran.txt
-https://raw.githubusercontent.com/darknessm427/IranConfigCollector/main/bulk/vmess_iran.txt
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md
@@ -71,4 +65,8 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-https://github.com/ggborr/FREEE-VPN/raw/refs/heads/main/8V2
+https://github.com/Leon406/SubCrawler/raw/refs/heads/main/sub/share/vless
+https://github.com/Leon406/SubCrawler/raw/refs/heads/main/sub/share/hysteria2
+https://github.com/Leon406/SubCrawler/raw/refs/heads/main/sub/share/a11
+https://github.com/awesome-vpn/awesome-vpn/raw/refs/heads/master/all
+https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/8V2
